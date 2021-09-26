@@ -1,0 +1,33 @@
+{
+  "name": "pinnacle",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@albedo-link/intent": "^0.11.2",
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.21.4",
+    "framer-motion": "^4.1.17",
+    "next": "11.1.2",
+    "next-iron-session": "^4.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-lottie-player": "^1.4.0",
+    "react-text-loop": "^2.3.0",
+    "react-youtube": "^7.13.1",
+    "usdao": "^1.0.4",
+    "usdao-sdk": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
